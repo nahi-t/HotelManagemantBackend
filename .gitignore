@@ -2,7 +2,7 @@
 node_modules/
 dist/
 build/
-.antigravity/
+.antigravitycli/
 
 # Environment files
 .env
